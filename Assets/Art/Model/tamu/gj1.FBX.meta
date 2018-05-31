@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 6c740632a98c38542b4edd96915e3860
+timeCreated: 1527485429
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna1
+    100002: Buffbone_Glb_Channel_Loc
+    100004: Buffbone_Glb_Ground_Loc
+    100006: Buffbone_Glb_Weapon_1
+    100008: C_Buffbone_Glb_Center_Loc
+    100010: C_Buffbone_Glb_Chest_Loc
+    100012: C_Buffbone_Glb_Head_Loc
+    100014: C_Buffbone_Glb_Layout_Loc
+    100016: C_Buffbone_Glb_Overhead_Loc
+    100018: C_L1_Lower_Lip_SKN
+    100020: C_L1_Upper_Lip_SKN
+    100022: C_L2_Lower_Lip_SKN
+    100024: C_L2_Upper_Lip_SKN
+    100026: C_L_Crease_Lip_SKN
+    100028: C_Lower_Lip_SKN
+    100030: C_R1_Lower_Lip_SKN
+    100032: C_R1_Upper_Lip_SKN
+    100034: C_R2_Lower_Lip_SKN
+    100036: C_R2_Upper_Lip_SKN
+    100038: C_R_Crease_Lip_SKN
+    100040: C_Upper_Lip_SKN
+    100042: //RootNode
+    100044: Head
+    100046: Jaw_Lower
+    100048: Jaw_Upper
+    100050: L_Barbel1
+    100052: L_Barbel2
+    100054: L_Barbel3
+    100056: L_Barbel4
+    100058: L_Buffbone_Glb_Foot_Loc
+    100060: L_Buffbone_Glb_Hand_Loc
+    100062: L_Clavicle
+    100064: L_Coat1
+    100066: L_Coat_ROT
+    100068: L_Elbow
+    100070: L_Eye
+    100072: L_Foot
+    100074: L_Hand
+    100076: L_Hip
+    100078: L_Index1
+    100080: L_Index2
+    100082: L_Knee
+    100084: L_Pinky1
+    100086: L_Pinky2
+    100088: L_Shoulder
+    100090: L_Thumb1
+    100092: L_Thumb2
+    100094: Model
+    100096: Pelvis
+    100098: Pelvis_Back_SKN
+    100100: Pelvis_SKN
+    100102: R_Barbel1
+    100104: R_Barbel2
+    100106: R_Barbel3
+    100108: R_Barbel4
+    100110: R_Buffbone_Glb_Foot_Loc
+    100112: R_Buffbone_Glb_Hand_Loc
+    100114: R_Clavicle
+    100116: R_Coat1
+    100118: R_Coat_ROT
+    100120: R_Elbow
+    100122: R_Eye
+    100124: R_Foot
+    100126: R_Hand
+    100128: R_Hip
+    100130: R_Index1
+    100132: R_Index2
+    100134: R_Knee
+    100136: R_Pinky1
+    100138: R_Pinky2
+    100140: R_Shoulder
+    100142: R_Thumb1
+    100144: R_Thumb2
+    100146: Root
+    100148: Snap_Hat2World
+    100150: Spine1
+    100152: Spine1_SKN
+    100154: Spine2
+    100156: Tail1
+    100158: Tail2
+    100160: Teetn_Norm_Lower
+    100162: Teetn_Norm_Upper
+    100164: Teetn_Rav_Lower
+    100166: Teetn_Rav_Upper
+    100168: Tongue1_SKN
+    100170: Tongue2_SKN
+    100172: Tongue3_SKN
+    100174: Tongue4_SKN
+    100176: Tongue5_SKN
+    400000: Antenna1
+    400002: Buffbone_Glb_Channel_Loc
+    400004: Buffbone_Glb_Ground_Loc
+    400006: Buffbone_Glb_Weapon_1
+    400008: C_Buffbone_Glb_Center_Loc
+    400010: C_Buffbone_Glb_Chest_Loc
+    400012: C_Buffbone_Glb_Head_Loc
+    400014: C_Buffbone_Glb_Layout_Loc
+    400016: C_Buffbone_Glb_Overhead_Loc
+    400018: C_L1_Lower_Lip_SKN
+    400020: C_L1_Upper_Lip_SKN
+    400022: C_L2_Lower_Lip_SKN
+    400024: C_L2_Upper_Lip_SKN
+    400026: C_L_Crease_Lip_SKN
+    400028: C_Lower_Lip_SKN
+    400030: C_R1_Lower_Lip_SKN
+    400032: C_R1_Upper_Lip_SKN
+    400034: C_R2_Lower_Lip_SKN
+    400036: C_R2_Upper_Lip_SKN
+    400038: C_R_Crease_Lip_SKN
+    400040: C_Upper_Lip_SKN
+    400042: //RootNode
+    400044: Head
+    400046: Jaw_Lower
+    400048: Jaw_Upper
+    400050: L_Barbel1
+    400052: L_Barbel2
+    400054: L_Barbel3
+    400056: L_Barbel4
+    400058: L_Buffbone_Glb_Foot_Loc
+    400060: L_Buffbone_Glb_Hand_Loc
+    400062: L_Clavicle
+    400064: L_Coat1
+    400066: L_Coat_ROT
+    400068: L_Elbow
+    400070: L_Eye
+    400072: L_Foot
+    400074: L_Hand
+    400076: L_Hip
+    400078: L_Index1
+    400080: L_Index2
+    400082: L_Knee
+    400084: L_Pinky1
+    400086: L_Pinky2
+    400088: L_Shoulder
+    400090: L_Thumb1
+    400092: L_Thumb2
+    400094: Model
+    400096: Pelvis
+    400098: Pelvis_Back_SKN
+    400100: Pelvis_SKN
+    400102: R_Barbel1
+    400104: R_Barbel2
+    400106: R_Barbel3
+    400108: R_Barbel4
+    400110: R_Buffbone_Glb_Foot_Loc
+    400112: R_Buffbone_Glb_Hand_Loc
+    400114: R_Clavicle
+    400116: R_Coat1
+    400118: R_Coat_ROT
+    400120: R_Elbow
+    400122: R_Eye
+    400124: R_Foot
+    400126: R_Hand
+    400128: R_Hip
+    400130: R_Index1
+    400132: R_Index2
+    400134: R_Knee
+    400136: R_Pinky1
+    400138: R_Pinky2
+    400140: R_Shoulder
+    400142: R_Thumb1
+    400144: R_Thumb2
+    400146: Root
+    400148: Snap_Hat2World
+    400150: Spine1
+    400152: Spine1_SKN
+    400154: Spine2
+    400156: Tail1
+    400158: Tail2
+    400160: Teetn_Norm_Lower
+    400162: Teetn_Norm_Upper
+    400164: Teetn_Rav_Lower
+    400166: Teetn_Rav_Upper
+    400168: Tongue1_SKN
+    400170: Tongue2_SKN
+    400172: Tongue3_SKN
+    400174: Tongue4_SKN
+    400176: Tongue5_SKN
+    4300000: Model
+    7400000: Attack1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Buffbone_Glb_Channel_Loc
+        weight: 1
+      - path: Buffbone_Glb_Ground_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Center_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Layout_Loc
+        weight: 1
+      - path: C_Buffbone_Glb_Overhead_Loc
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Pelvis
+        weight: 1
+      - path: Root/Pelvis/L_Coat_ROT
+        weight: 1
+      - path: Root/Pelvis/L_Coat_ROT/L_Coat1
+        weight: 1
+      - path: Root/Pelvis/L_Hip
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Foot
+        weight: 1
+      - path: Root/Pelvis/L_Hip/L_Knee/L_Foot/L_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Pelvis/Pelvis_Back_SKN
+        weight: 1
+      - path: Root/Pelvis/Pelvis_SKN
+        weight: 1
+      - path: Root/Pelvis/R_Coat_ROT
+        weight: 1
+      - path: Root/Pelvis/R_Coat_ROT/R_Coat1
+        weight: 1
+      - path: Root/Pelvis/R_Hip
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Foot
+        weight: 1
+      - path: Root/Pelvis/R_Hip/R_Knee/R_Foot/R_Buffbone_Glb_Foot_Loc
+        weight: 1
+      - path: Root/Pelvis/Tail1
+        weight: 1
+      - path: Root/Pelvis/Tail1/Tail2
+        weight: 1
+      - path: Root/Spine1
+        weight: 1
+      - path: Root/Spine1/C_Buffbone_Glb_Chest_Loc
+        weight: 1
+      - path: Root/Spine1/L_Clavicle
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Buffbone_Glb_Hand_Loc
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Index1
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Index1/L_Index2
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Pinky1
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Pinky1/L_Pinky2
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Thumb1
+        weight: 1
+      - path: Root/Spine1/L_Clavicle/L_Shoulder/L_Elbow/L_Hand/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: Root/Spine1/R_Clavicle
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/Buffbone_Glb_Weapon_1
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Buffbone_Glb_Hand_Loc
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Index1
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Index1/R_Index2
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Pinky1
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Pinky1/R_Pinky2
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Thumb1
+        weight: 1
+      - path: Root/Spine1/R_Clavicle/R_Shoulder/R_Elbow/R_Hand/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: Root/Spine1/Spine1_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2
+        weight: 1
+      - path: Root/Spine1/Spine2/Head
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Antenna1
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_Buffbone_Glb_Head_Loc
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_L1_Lower_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_L1_Upper_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_L2_Lower_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_L2_Upper_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_L_Crease_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_Lower_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_R1_Lower_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_R1_Upper_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_R2_Lower_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_R2_Upper_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_R_Crease_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/C_Upper_Lip_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Lower
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Lower/Teetn_Norm_Lower
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Lower/Teetn_Rav_Lower
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Upper
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Upper/L_Eye
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Upper/R_Eye
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Upper/Teetn_Norm_Upper
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Jaw_Upper/Teetn_Rav_Upper
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/L_Barbel1
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/L_Barbel1/L_Barbel2
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/L_Barbel1/L_Barbel2/L_Barbel3
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/L_Barbel1/L_Barbel2/L_Barbel3/L_Barbel4
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/R_Barbel1
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/R_Barbel1/R_Barbel2
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/R_Barbel1/R_Barbel2/R_Barbel3
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/R_Barbel1/R_Barbel2/R_Barbel3/R_Barbel4
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Tongue1_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Tongue2_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Tongue3_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Tongue4_SKN
+        weight: 1
+      - path: Root/Spine1/Spine2/Head/Tongue5_SKN
+        weight: 1
+      - path: Snap_Hat2World
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e7ff7279fb710494b98afd5c10ad1af6,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
